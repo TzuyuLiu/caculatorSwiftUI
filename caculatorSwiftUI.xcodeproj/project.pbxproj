@@ -14,6 +14,7 @@
 		63849EBB2390EEB3004CD8FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63849EBA2390EEB3004CD8FD /* Assets.xcassets */; };
 		63849EBE2390EEB3004CD8FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63849EBD2390EEB3004CD8FD /* Preview Assets.xcassets */; };
 		63849EC12390EEB3004CD8FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63849EBF2390EEB3004CD8FD /* LaunchScreen.storyboard */; };
+		63849ECB23964E70004CD8FD /* CalculatorButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63849ECA23964E70004CD8FD /* CalculatorButtonItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		63849EBD2390EEB3004CD8FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		63849EC02390EEB3004CD8FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63849EC22390EEB3004CD8FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63849ECA23964E70004CD8FD /* CalculatorButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButtonItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				63849EB12390EEAD004CD8FD /* AppDelegate.swift */,
 				63849EB32390EEAD004CD8FD /* SceneDelegate.swift */,
 				63849EB82390EEAD004CD8FD /* ContentView.swift */,
+				63849ECA23964E70004CD8FD /* CalculatorButtonItem.swift */,
 				63849EBA2390EEB3004CD8FD /* Assets.xcassets */,
 				63849EBF2390EEB3004CD8FD /* LaunchScreen.storyboard */,
 				63849EC22390EEB3004CD8FD /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				63849EB22390EEAD004CD8FD /* AppDelegate.swift in Sources */,
 				63849EB42390EEAD004CD8FD /* SceneDelegate.swift in Sources */,
+				63849ECB23964E70004CD8FD /* CalculatorButtonItem.swift in Sources */,
 				63849EB92390EEAD004CD8FD /* ContentView.swift in Sources */,
 				63849EB72390EEAD004CD8FD /* caculatorSwiftUI.xcdatamodeld in Sources */,
 			);
